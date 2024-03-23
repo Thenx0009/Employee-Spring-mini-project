@@ -10,7 +10,7 @@
 ## Architecture <a name="architechure"></a>
 ![Alt text](ss/archi.PNG)
 
-## Loging Aspect <a name="logging"></a>
+## Logging Aspect <a name="logging"></a>
 ![Alt text](ss/aspect.PNG)
 
 ## Web App Screenshots<a name="ss"></a>
